@@ -1,1 +1,1 @@
-
+https://xiaogd.net/%e3%80%90%e8%bd%ac%ef%bc%88%e4%b8%ad%e8%8b%b1%e6%96%87%ef%bc%89%e3%80%91%e5%8d%81%e5%b9%b4%e5%ad%a6%e4%bc%9a%e7%bc%96%e7%a8%8b%ef%bc%88teach-yourself-programming-in-ten-years%ef%bc%89/#%E5%9C%A8%E5%8D%81%E5%B9%B4%E9%87%8C%E5%AD%A6%E4%BC%9A%E7%BC%96%E7%A8%8B%20Teach%20yourself%20programming%20in%20ten%20years
