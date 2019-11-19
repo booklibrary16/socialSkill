@@ -3,3 +3,7 @@
 3,I know everything about human ,illness ,health,emotion and so,i know how to control everything about this,     
 4,I like the professional people that can write the basic book,and teach everyone in the world.my work should have a goood effect on every other people.          
 5,I am the man that know everything,whatever I do,whenever I do,.  
+
+
+6,Then How to do in everyday?    
+Do exercise and read book, take exercise to build a strong body.     
