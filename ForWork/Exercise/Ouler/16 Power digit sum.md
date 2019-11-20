@@ -1,7 +1,9 @@
 
 public class OulerProject {
+
        public static void main(String[] args)
        {
+       
            int index;
            long[] index15 = new long[]{1l,0l,0l,0l,0l,0l,0l,0l,0l,0l,0l,0l,0l,0l,0l,0l,0l,0l,0l,0l};
            long cut;
