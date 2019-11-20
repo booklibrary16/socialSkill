@@ -162,10 +162,12 @@ public class LinkList{ //链表
     }
 
     public static void main(String[] args){
-        LinkList list = new LinkList();
-        for(int i =0;i<10;i++){
-            list.add(i);
-        }
-        list.print(list.head);
+         int index;
+           index = 20;
+           LinkList list = new LinkList();
+           for(int i =0;i<index;i++){
+               list.add(index);
+           }
+           list.dealTheTask(list.head);
     }
 }
