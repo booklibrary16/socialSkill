@@ -11,6 +11,10 @@
 3，得到更多，解决自己的经济和家庭问题。自己会得到更多的机遇。          
 4，所有谈话的过程，就是在不断寻找问题，确认问题，分析问题，然后回答别人（解决问题），是否是心里问题，还是礼仪问题。        
 
+秋，提升信息掌控力度：    
+1，有意识地训练自己，利用自己信息系统来解决自己能力的过程，通过多次的使用，来使自己对于自己信息系统的熟练的掌握。     
+2，平时多给自己训练的任务。    
+
 
 末，在未来，要成为一个什么样的人？     
 1,Become a worker that know how to control the new technology that born on the world.just like the zhugeliang,caocao,know how to get the world,know everything,and like wangyangming,how to control myself.how to go to the destination.   
