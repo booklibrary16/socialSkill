@@ -5,6 +5,13 @@
 4，开发一个模型，寻找一种方式，如何切入到任何一个时空之中。    
 5,I need to know the 生产方式，这个社会，这个行业的生产方式，还有如何入门的问题。   
 
+夏，What will happen to me       
+1,尽管这个东西，别人已经研究熟透了，但是，我还是要采取人生若只如初见，一切都像我是第一个研究的人一样，一切现存或者已经验证过了的问题，我都要转化为一种猜想，一种对未来的一种预言来面对，我自己始终是一个探索者，我所做的一切，不是在记忆，不是为了记忆而记忆，而是在解决问题的过程中，自然而然产生记忆。    
+2，这样子，对于我自己，会产生什么样的影响，我自己解决问题的能力会不断的得到强化，对于未来的洞见也会得到加强，知识是我的正体。以发现问题，分析问题，解决问题，三步，作为唯一的面向世界的视角。一切，都可以转化为，是什么问题，为什么会如此，怎么解决，不断的循环中，推动自己的一天，一辈子。     
+3，得到更多，解决自己的经济和家庭问题。自己会得到更多的机遇。          
+
+
+
 末，在未来，要成为一个什么样的人？     
 1,Become a worker that know how to control the new technology that born on the world.just like the zhugeliang,caocao,know how to get the world,know everything,and like wangyangming,how to control myself.how to go to the destination.   
 2,know how to go to anywhere by the road.always on the road.        
