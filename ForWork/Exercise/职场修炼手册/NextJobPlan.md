@@ -9,3 +9,11 @@ One,The First Pro，
 
 Two，Make a research:    
 
+Third,Write more research book.    
+
+
+Four,Make vedio on the web,    
+
+
+
+
