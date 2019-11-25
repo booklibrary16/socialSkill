@@ -15,6 +15,8 @@ create problem,deal with it,
 find problems,deal with it,   
 so my firt job is to find the problems,all this will be a mark.     
 4,the first day is problem,after day sovlve it and find the new,    
+5，Capture the chance in the future,   
+
 
 
 Third,Write more research book.    
