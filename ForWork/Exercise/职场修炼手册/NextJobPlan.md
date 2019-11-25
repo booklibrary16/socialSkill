@@ -10,7 +10,10 @@ One,The First Pro，
 Two，Make a research:    
 1,The fact is that now,my time limited and i should find a job now,i choose the python as my job language,that i will learn more about this language,at the same time ,i will finish a java project on github ,my android project will increase at the same time ,because the ai ,it is good ,whether the finance is good or not ,python first ,and java,and android,and linux,and cpu,this will be my map to the future,ok ,that's it.   
 2,know the basic and do exercise ,and know the book,make a history for the work, ok ,that's it .
-
+3,The whole development model will be like this :   
+create problem,deal with it,   
+find problems,deal with it,   
+so my firt job is to find the problems,all this will be a mark.     
 
 Third,Write more research book.    
 
