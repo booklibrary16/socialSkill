@@ -32,6 +32,8 @@ Six<The method to learn:
 1，Focus on the vedio topic,Make a list of the python,then make a research for myself,the vedio give me a topic.i will copy to a vedio.   
 2,Focus on the article to get the topic,then create the new article that has the same name but the reason is created by myself.  
 3,just like english learning,listen,read,speak,write,to get the skill,    
+4,rewrite a new book,that means my source is from the web,the tieba,the luntan,and so on.      
+
 
 ps:    
 1,beside to earn more money,it is necessary to do the right things,and do what you want to do,So what do you want to do?I can do my research to know more the world,and create more i like,it is my duty to do something like this,  
