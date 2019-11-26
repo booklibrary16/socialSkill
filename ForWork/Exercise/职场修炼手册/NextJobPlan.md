@@ -34,6 +34,7 @@ Six<The method to learn:
 3,just like english learning,listen,read,speak,write,to get the skill,    
 4,rewrite a new book,that means my source is from the web,the tieba,the luntan,and so on.      
 5,rewrite the language,that means i will create my own language,this is the top learning type.     
+6,Often,the model is that,it is true or not,everything will be changed into this simple model like this,everything is created and build in my brain and the world only give me the answer :is it true or not.for my learning ,this is the best way to learn and make me smarter.good,i will do this.        
 
 ps:    
 1,beside to earn more money,it is necessary to do the right things,and do what you want to do,So what do you want to do?I can do my research to know more the world,and create more i like,it is my duty to do something like this,  
