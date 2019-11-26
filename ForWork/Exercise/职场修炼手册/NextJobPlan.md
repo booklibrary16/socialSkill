@@ -36,6 +36,13 @@ Six<The method to learn:
 5,rewrite the language,that means i will create my own language,this is the top learning type.     
 6,Often,the model is that,it is true or not,everything will be changed into this simple model like this,everything is created and build in my brain and the world only give me the answer :is it true or not.for my learning ,this is the best way to learn and make me smarter.good,i will do this.So which model is the most useful for me,just like this:Imaging all the time when i am awake,make judgement and prove it,during the time ,i will grow up ,I believe this will be the way to help me to know the world and help me to deal with all the problem on my way to success and i will read more book,the suppose will be the beginner,and the ansewer will be the end and the new beginner at the same time ,it is ok.This way will define my time.Everyone and everything abhout me ,every problem will be provede on this way,so here this is the way,I will go,everyone will go ,during the time ,i will improve it,to help me to solve the more problem,i like this way,but at 2019,11,26,I do not know whether it can help me or not ,but the reality will give me the answer,I will expect it,So now what i will do is just to do it.Beautiful!            
 
+Seven，About learning the new language:    
+1,To Just write the algorithm ,i just need to learn the algothm,and forget the other.   
+2,Learn part ,not all ,and make my library.    
+3,Write my book.    
+
+
+
 ps:    
 1,beside to earn more money,it is necessary to do the right things,and do what you want to do,So what do you want to do?I can do my research to know more the world,and create more i like,it is my duty to do something like this,  
 2,What the world will be like in the future,what the world will like in the future,I can see that ,in the future,the app is designed for the individual,and all the data is only used for one person,    
