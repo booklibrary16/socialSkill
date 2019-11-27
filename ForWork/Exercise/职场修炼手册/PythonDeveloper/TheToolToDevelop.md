@@ -4,7 +4,7 @@
 2,Pycharm;   
 下载地址：https://www.anaconda.com/distribution/   或者清华的国内的镜像网站下载 提供工具集合：
 
-Pycharm    
+Pycharm ：破解：https://www.macwk.com/article/jetbrains-crack       
 python:  https://www.python.org/downloads/release/python-370/   
 
 https://www.bilibili.com/video/av19057145?from=search&seid=5700573971449582270    
