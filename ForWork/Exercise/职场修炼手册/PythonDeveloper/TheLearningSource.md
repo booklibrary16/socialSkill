@@ -3,4 +3,5 @@
 3,部文件>棕榈大道-编程资料    
 4,coursera   
 5,https://github.com/fffaraz/awesome-courses     
-
+6，BaiduYUN：   
+https://space.bilibili.com/35282222?spm_id_from=333.788.b_765f7570696e666f.2   
