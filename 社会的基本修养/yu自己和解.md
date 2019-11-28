@@ -9,3 +9,11 @@ This a new day,TX the world,I will have a new chance to make my dream come true.
 call back my method and do a better me:    
 there are so many things that need me do:   
 wakeup words--->笑傲江湖---->激活宪法,若如初见，进行洗礼--->运动---->洗漱----->explore the new world.
+
+4,redefine the model of time:   
+MorningMode: 
+ExerciseMode:
+OutSideMode:     
+EnjoyMode:    
+SleepMode:    
+
