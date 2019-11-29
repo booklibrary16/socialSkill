@@ -12,10 +12,15 @@ wakeup words--->笑傲江湖---->激活宪法,若如初见，进行洗礼--->运
 
 4,redefine the model of time:   
 MorningMode:     
-ExerciseMode:    
+早上六点，无论怎么样，都要起床。    
+ExerciseMode:   
+
 OutSideMode:     
+在这个时候，无论在任何状态下面，都要出去，时间定了，就是七点，无论什么时候，都要出门。没有商量。     
 EnjoyMode:    
 SleepMode:    
+晚上十点，无论如何，都要躺在床上，无论如何都不要起来。    
+
 
 in this way,what i will do in everyday is clear.   
 anytime,anywhere,What i will do is very clear.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!    
