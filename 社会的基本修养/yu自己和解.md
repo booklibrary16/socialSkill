@@ -21,6 +21,8 @@ EnjoyMode:
 SleepMode:    
 晚上十点，无论如何，都要躺在床上，无论如何都不要起来。    
 
+我只有一件事，那就执行自然的法则。   
+
 
 in this way,what i will do in everyday is clear.   
 anytime,anywhere,What i will do is very clear.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!    
