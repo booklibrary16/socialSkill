@@ -5,4 +5,4 @@ The key partment is that the environment.how to build the environment .
 
 for example the build.gradle.this is an important key file that should follow the project.   
 
-
+2,JDK ,Project gradle version,IDE gradle version.   
