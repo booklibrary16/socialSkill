@@ -3,7 +3,7 @@
 1    # Summary
 
 * [Introduction](README.md)
-* [基本安装](howtouse/README.md)
+* [基本安装](整体开发格局论述.md)
    * [Node.js安装](howtouse/nodejsinstall.md)
    * [Gitbook安装](howtouse/gitbookinstall.md)
    * [Gitbook命令行速览](howtouse/gitbookcli.md)
@@ -18,140 +18,6 @@
 * [结束](end/README.md)
 1    
 1    
-1    
-1    
-1    
-1    
-1    1    1    
-1    
-1    
-1    
-1    
-1    
-1    1    
-1    
-1    
-1    
-1    
-1    
-1    
-1    
-1    
-1    
-1    
-1    1    v
-
-1    1    
-
-1    
-1    
-1    
-1    
-1    1    
-
-1    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 回到顶部
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 [回到顶部](#整体开发格局论述)
 
