@@ -1,9 +1,7 @@
-1,在此处安排每日的编程计划。 
-1    
-1    # Summary
+# Summary
 
-* [Introduction](README.md)
-* [基本安装](整体开发格局论述.md)
+* [Introduction](introduction.md)
+* [持续集成](整体开发格局论述.md)
    * [Node.js安装](howtouse/nodejsinstall.md)
    * [Gitbook安装](howtouse/gitbookinstall.md)
    * [Gitbook命令行速览](howtouse/gitbookcli.md)
