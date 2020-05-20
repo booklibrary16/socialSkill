@@ -1,1 +1,1 @@
-https://send.firefox.com/download/b83f1df92dc4c48b/#SirAHIdhKaok6TRMZm4vkg
+https://t00y.com/file/tempurl-A2AENFJhCmtaagNmBDRWPVR7BDFTZ11oCGFSNgJlBz1XNgcwBilaM1tsUD8FPQRvBjwBMQc2X2gLZA
