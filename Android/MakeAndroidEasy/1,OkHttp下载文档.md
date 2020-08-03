@@ -1,3 +1,5 @@
+okhttp的标准代码，去官网上搞定    
+
 is = response.body().byteStream();首先，将取出来的东西byteStream，
 
 FileOutputStream：需要一个一个file对象，来初始化FileOUtputStream，
