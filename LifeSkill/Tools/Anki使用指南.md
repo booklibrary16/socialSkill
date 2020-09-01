@@ -8,7 +8,7 @@
 
 5，https://finjapanlife.com/anki/#%E6%9B%B4%E6%B7%B1%E5%85%A5%E7%9A%84%E8%B3%87%E6%BA%90
 
-
+6，将anki卡片制作的过程视为一个学习的过程，加入SWOT,SMART,5W2H1E等模块
 
 
 
